@@ -8,9 +8,9 @@ Adjust parameters (num_arms, num_tasks, num_steps, epsilons).
 Run the code to simulate the bandit tasks.
 Check generated plots for performance insights.
 # Classes
-N_ARM_BANDIT: Represents an n-armed bandit with epsilon-greedy action selection.
-AD_BANDIT: Models advertisement bandits, tracking rewards and actions.
+1. N_ARM_BANDIT: Represents an n-armed bandit with epsilon-greedy action selection.
+2. AD_BANDIT: Models advertisement bandits, tracking rewards and actions
 # Data Visualization
 # Generates:
-Reward Trend Plot: Accumulated rewards over time for different epsilon values.
-Final Reward Bar Plot: Total rewards achieved by each epsilon strategy.
+1. Reward Trend Plot: Accumulated rewards over time for different epsilon values.
+2. Final Reward Bar Plot: Total rewards achieved by each epsilon strategy.
